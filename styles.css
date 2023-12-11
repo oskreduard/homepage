@@ -141,7 +141,9 @@ Intro and skills styles
   margin-right: 30px;
   width: 30px;
   display: flex;
-  justify-content: center;
+  justify-content: left;
+  color:#ff9a00;
+  zoom: 250%;
 }
 
 .intro__icon {
