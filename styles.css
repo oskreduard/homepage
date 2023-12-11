@@ -228,6 +228,7 @@ Experience and additional info styles
 
 .additional-info__education {
   margin-bottom: 20px;
+  vertical-align: text-top;
 }
 
 .additional-info__education-header {
