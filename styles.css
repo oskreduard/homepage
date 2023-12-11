@@ -222,7 +222,6 @@ Experience and additional info styles
 .additional-info {
   flex: 1 1 40%;
   align-self: flex-end;
-  
 }
 
 .additional-info__education {
